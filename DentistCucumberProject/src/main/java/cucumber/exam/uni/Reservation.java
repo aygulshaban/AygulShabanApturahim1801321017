@@ -27,7 +27,7 @@ public class Reservation {
     /**
      * 
      */
-    public Date date;
+    public String date;
 
 
 
